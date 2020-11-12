@@ -1,4 +1,6 @@
-# STATISTICAL METHODS FOR DECISION MAKING.... 
+## STATISTICAL METHODS FOR DECISION MAKING.... 
+
+### Statistical and Probabilistic Analysis of Store Sales, University Survey and Manufacturing Data
 
 The project involves drawing inferences from 3 case studies, namely - Wholesale Customer Data (Store Sales), University Survey Data and Manufacturing Shingles Data. 
 
